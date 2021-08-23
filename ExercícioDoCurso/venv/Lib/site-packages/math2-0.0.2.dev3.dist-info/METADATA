@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: math2
+Version: 0.0.2.dev3
+Summary: A Python package for various math functions
+Home-page: https://github.com/AussieSeaweed/math2
+Author: Juho Kim
+Author-email: juho-kim@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.9
+Description-Content-Type: text/x-rst
+
+Math2
+=====
+
+Math2 is a Python package for various math functions.
+
+
+License
+-------
+`MIT <https://choosealicense.com/licenses/mit/>`_
+
+
